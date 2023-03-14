@@ -1,0 +1,12 @@
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\bin\Debug\Ecuacion.exe.config
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\bin\Debug\Ecuacion.exe
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\bin\Debug\Ecuacion.pdb
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\bin\Debug\Ecuacion.xml
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.vbproj.AssemblyReference.cache
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.formCalculadora.resources
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.Resources.resources
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.vbproj.GenerateResource.cache
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.vbproj.CoreCompileInputs.cache
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.exe
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.xml
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\P1_PartialSol\Ecuacion\Ecuacion\obj\Debug\Ecuacion.pdb
