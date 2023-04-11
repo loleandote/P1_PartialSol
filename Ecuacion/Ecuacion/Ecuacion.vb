@@ -114,6 +114,7 @@
         delta = Math.Pow(B, 2) - (4 * A * C)
         If delta > 0 Then
             Re1 = (-B + Math.Sqrt(delta)) / (2 * A)
+            'Re1 = Math.Sign(Re1) * Math.Floor(Math.Abs(Re1) * 100) / 100.0
             Re2 = (-B - Math.Sqrt(delta)) / (2 * A)
         ElseIf delta <= 0 Then
             Re1 = -B / (2 * A)

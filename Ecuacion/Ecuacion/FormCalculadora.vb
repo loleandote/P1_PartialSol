@@ -1,4 +1,15 @@
 ﻿Public Class formCalculadora
+    Public Sub New()
+
+        ' Esta llamada es exigida por el diseñador.
+        InitializeComponent()
+        Button1.Visible = False
+        Button2.Visible = False
+        Button3.Visible = False
+        'btnCalcular.Enabled = False
+        ' Agregue cualquier inicialización después de la llamada a InitializeComponent().
+
+    End Sub
     Private Sub btnCalcular_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCalcular.Click
 
         Dim va, vb, vc As Double
@@ -15,7 +26,7 @@
             MessageBox.Show(oex.Source & Constants.vbCrLf & oex.Message, "Error de desbordamiento al convertir datos de entrada", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
             Exit Sub
         End Try
-        ec= New Ecuacion(va,vb,vc)
+        ec = New Ecuacion(va, vb, vc)
         If ec.Calcular() < 0 Then
             lblRE1.ForeColor = Color.Red
             lblRE2.ForeColor = Color.Red
@@ -25,6 +36,7 @@
             lblRE2.ForeColor = Color.Black
             lblEstado.Text = "Estado Real"
         End If
+
         lblRE1.Text = ec.Complejo1.ToString()
         lblRE2.Text = ec.Complejo2.ToString()
     End Sub
